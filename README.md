@@ -1,9 +1,5 @@
 # 📊 Data Analysis Dashboard (Tableau)
 
-## 👨‍💻 Created By:
-- Manavendrasinh Chauhan (23SE02IT044)
-- Khan Sahil (23SE02IT039)
-
 ## 📁 Project Overview:
 This project is a Tableau-based dashboard designed to analyze candidate resume data. It helps in understanding match scores, experience levels, and resume insights.
 
